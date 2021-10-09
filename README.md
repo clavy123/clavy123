@@ -13,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince sen" height="30" width="40" /></a>
-<a href="https://instagram.com/princesenramraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princesenramraj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sopy123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sopy123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prince sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prince sen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user9803x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9803x" height="30" width="40" /></a>
