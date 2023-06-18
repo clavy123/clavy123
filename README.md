@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **final year project**
 
-- 🌱 I’m currently learning **NextJs,Tensorflow**
+- 🌱 I’m currently learning **NestJS,LLD**
 
 - 👯 I’m looking to collaborate on **github**
 
